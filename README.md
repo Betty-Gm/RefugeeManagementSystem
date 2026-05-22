@@ -1,1 +1,1 @@
-"# Refugee Management System" 
+This Refugee Management System is a console based application. It is developed using c++ to address the large scale displacements due to conflicts and NGOs struggle to distribute aid efficiently . This provides a solution to manage refugee registration, family tracking, aid distribution and incident reporting.
